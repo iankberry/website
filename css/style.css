@@ -1,16 +1,15 @@
 body {
 	background-color: white;
-	/*font-family: "Lucida Grande", Arial, Helvetica, Verdana, sans-serif;*/
 	font-family: 'Arimo', 'PT Sans', sans-serif;
 }
 
 #container {
 	width: 1000px;
-	margin: 45px auto 50px auto;
+	margin: 45px auto 20px auto;
 }
 
 header {
-	margin-bottom: 50px;
+	margin-bottom: 35px;
 	font-family: Palatino;
 }
 header h1 {
@@ -38,7 +37,7 @@ section#recently .recent-block {
 	float: left;
 	padding: 0 10px 0 0;
 	height: 455px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	overflow: hidden;
 	word-wrap: break-word;
 }
@@ -70,19 +69,19 @@ section#recently #lastfm-container li {
 	float: left;
 }
 section#recently #lastfm-container a {
-	float:left;
+	float: left;
 	padding: 8px;
 	margin: 0 10px 14px 0;
-	border:1px solid #ddd;
-	-webkit-border-radius:4px;
-	-moz-border-radius:4px;
-	border-radius:4px;
-	-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.075);
-	-moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.075);
-	box-shadow:0 1px 1px rgba(0, 0, 0, 0.075);
+	border: 1px solid #ddd;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 section#recently #lastfm-container a img {
-	display:block;
+	display: block;
 	height: 75px;
 	width: 75px;
 	border: 0;
@@ -90,10 +89,10 @@ section#recently #lastfm-container a img {
 	padding: 0;
 }
 section#recently #lastfm-container a:hover {
-	border-color:#0069d6;
-	-webkit-box-shadow:0 1px 4px rgba(0, 105, 214, 0.25);
-	-moz-box-shadow:0 1px 4px rgba(0, 105, 214, 0.25);
-	box-shadow:0 1px 4px rgba(0, 105, 214, 0.25);
+	border-color: #0069d6;
+	-webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+	-moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
+	box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
 }
 
 section#recently #recently-twitter ul {
@@ -136,8 +135,22 @@ section#me .me-block:nth-child(3) {
 section#me .me-block h2 {
 	font-size: 14pt;
 	border-bottom: 1px solid #ddd;
-	margin-bottom: 6px;
+	margin-bottom: 10px;
 }
 section#me .me-block ul li {
 	line-height: 18pt;
+}
+
+footer {
+	margin-top: 60px;
+	color: #aaa;
+	padding: 5px;
+	text-align: right;
+	font-size: 9pt;
+}
+footer a, footer a:active, footer a:visited {
+	color: #999;
+}
+footer a:hover {
+	color: #555;
 }

@@ -32,6 +32,7 @@
 			<li><a href="http://web.stagram.com/n/iankberry">Instagram</a></li>
 			<li><a href="http://www.linkedin.com/pub/ian-berry/0/625/972">LinkedIn</a></li>
 			<li><a href="http://last.fm/user/rax000">last.fm</a></li>
+			<li><a href="https://github.com/iankberry">GitHub</a></li>
 		</ul>
 	</div>
 	<div class="me-block">
@@ -42,6 +43,8 @@
 		<h2>Misc</h2>
 		<ul>
 			<li><a href="http://www.cacti.net">Cacti</a></li>
+			<li><a href="http://www.reddit.com">reddit</a></li>
+			<li><a href="http://www.annarbor.com">Ann Arbor</a></li>			
 		</ul>
 	</div>
 </section>

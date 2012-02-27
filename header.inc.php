@@ -30,5 +30,5 @@
 				Engineer of web software and cloud services<br />
 				Works at <a href="http://www.barracudanetworks.com">Barracuda Networks</a><br />
 				Founding partner at <a href="http://www.nutshell.com">Nutshell</a>
-			</div
+			</div>
 		</header>
